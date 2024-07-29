@@ -1,6 +1,6 @@
 //Name - Devarthik Suresh
 //PRN - 23070123045
-//Aim - Printing out Hellow World
+//Aim - Creating a simple calculator
 #include <iostream>
 using namespace std;
 
