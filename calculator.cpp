@@ -19,3 +19,11 @@ int main() {
 
     return 0;
 }
+/*
+Enter num1: 5
+Enter num2: 6
+The sum is: 11
+The difference is: -1
+The division is: 0.833333
+The product is: 30
+*/
