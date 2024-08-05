@@ -1,9 +1,10 @@
 # Hello_World-Calculator
 Experiment_1
-# AIM - 
+## AIM - 
 To Print "Hello World" and program a simple calculator in C++
-
-## Theory
+## Software used - 
+VS Code
+## Theory -
 
 C++ is a general-purpose, high-performance programming language that builds on the foundation of the C language. Developed by Bjarne Stroustrup in the early 1980s at Bell Labs, C++ is a cross-platform language used to create high-performance applications. It supports object-oriented programming, making it a versatile tool for various types of software development.
 
@@ -13,3 +14,6 @@ In the hello world program , the `cout` function from the iostream library is co
 
 ### Experiment 1b: Calculator - 
 Basic airthmetic operations`(+,-,/,*)` were used to create the calculator program. While `cin` function is used to recive inputs from the user.
+
+## Conclusion -
+We learnt to use the basic functios of C++.
